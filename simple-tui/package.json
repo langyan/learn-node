@@ -1,0 +1,25 @@
+{
+  "name": "simple-tui",
+  "version": "1.0.0",
+  "description": "A minimal Node + React terminal UI example using Ink",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "tsx index.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tui",
+    "ink",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ink": "^6.8.0",
+    "react": "^19.2.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
